@@ -5,6 +5,7 @@
     <p>Brasileiro, solteiro, 25 anos</p>
     <p>Endereço: Tv Amarildo Dalazuana - Umbará - Cep: 81930625 - Curitiba – PR</p>
     <p>Telefone: (41) 99628 2747 / 99988 1684 (Pai - Antonio) - E-mail: dio.terras@gmail.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/elpidio-rezende-terras-78bab110b">Elpidio Rezende Terras</a></p>
 
 <h2>OBJETIVO</h2>
 <p>Analista de TI – Busco a oportunidade de agregar valor à empresa atuando em uma área que me permita aplicar minhas habilidades e conhecimentos. Com minha capacidade de aprendizado rápido, dedicação, foco e criatividade tenho certeza de que posso contribuir muito para o sucesso do negócio.</p>
